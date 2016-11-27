@@ -6,21 +6,21 @@
 #
 layout: frontpage
 header:
-  image_fullwidth: peninsula_hero_optimized.jpg
+  image_fullwidth: beach_hero_1.jpg
 widget1:
   title: "Training"
   # url: 'http://phlow.github.io/feeling-responsive/blog/'
-  image: widget-1-302x182.jpg
+  image: beach_widget_1.jpg
   text: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.'
 widget2:
   title: "Education"
-  image: widget-1-302x182.jpg
+  image: beach_widget_2.jpg
   # url: 'http://phlow.github.io/feeling-responsive/info/'
   text: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.'
 widget3:
   title: "Analysis"
   # url: 'https://github.com/Phlow/feeling-responsive'
-  image: widget-github-303x182.jpg
+  image: beach_widget_3.jpg
   text: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.'
 #
 # Use the call for action to show a button on the frontpage
