@@ -2,6 +2,10 @@
   url: "/"
   side: left
 
+- title: "Modules"
+  url: "/modules/"
+  side: left
+
 - title: "Board of Directors"
   url: "/board-of-directors/"
   side: left
