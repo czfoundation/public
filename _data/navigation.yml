@@ -2,8 +2,8 @@
   url: "/"
   side: left
 
-- title: "Modules"
-  url: "/modules/"
+- title: "CCP Training"
+  url: "/training/"
   side: left
 
 - title: "Board of Directors"
@@ -12,6 +12,10 @@
 
 - title: "Bylaws"
   url: "/assets/documents/CZFBYLAWSfinal2015.pdf"
+  side: left
+
+- title: "Call For Papers"
+  url: "/assets/documents/call_for_papers.pdf"
   side: left
 
 - title: "Contact"

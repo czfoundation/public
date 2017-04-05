@@ -1,7 +1,7 @@
 ---
 layout: page
 meta_title: "Coastal Zone Moduls"
-permalink: "/modules/"
+permalink: "/training/"
 header:
   image_fullwidth: beach_hero_1.jpg
 ---
