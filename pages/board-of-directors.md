@@ -17,3 +17,5 @@ header:
 	<li>Board member – Tom Richardson</li>
 	<li>Board member – Kate Gooderham</li>
 </ul>
+
+<img class="logo t90" src="/assets/img/czf_logo.jpg" />
