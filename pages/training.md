@@ -36,4 +36,4 @@ header:
 <h3>Coastal Zone Management and Coastal Regulations</h3>
 <p>An introductory course will present the concepts of coastal zone management and coastal regulation.  Understanding the reason for coastal zone management and how to ensure that your project meets the guidelines.  The module also discusses the interaction between the coastal zone management regulations and the coastal state and federal regulations.  These concepts are present though a review of a sample project that takes the participant through coastal zone management and regulatory process.</p>
 
-<img class="logo t60" src="{{ domain }}{{ site.baseurl }}/assets/img/czf_logo.jpg" />
+<img class="logo t60" src="{{ domain }}/assets/img/czf_logo.jpg" />

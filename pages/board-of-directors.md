@@ -18,4 +18,4 @@ header:
 	<li>Board member – Kate Gooderham</li>
 </ul>
 
-<img class="logo t90" src="{{ domain }}{{ site.baseurl }}/assets/img/czf_logo.jpg" />
+<img class="logo t90" src="{{ domain }}/assets/img/czf_logo.jpg" />
